@@ -1,0 +1,2 @@
+# netauto
+training repository
